@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BK_HoaDon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\sanphamkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\sanphamkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\nhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\nhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\hethongkhocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\hethongkhocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\genericcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\genericcrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\hoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\hoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\vitri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\vitri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|d:\\bk_hoadon\\bk_hoadon\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72492F90-7A24-4FE2-A4B0-4600D390EA11}|BK_HoaDon\\BK_HoaDon.csproj|solutionrelative:bk_hoadon\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoaDonService.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\HoaDonService.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\HoaDonService.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\HoaDonService.cs",
+              "RelativeToolTip": "BK_HoaDon\\HoaDonService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:20:11.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienService.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\NhanVienService.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\NhanVienService.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\NhanVienService.cs",
+              "RelativeToolTip": "BK_HoaDon\\NhanVienService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:47:43.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\Program.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\Program.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\Program.cs",
+              "RelativeToolTip": "BK_HoaDon\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:19:13.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\HoaDon.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\HoaDon.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\HoaDon.cs",
+              "RelativeToolTip": "BK_HoaDon\\HoaDon.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:20:10.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericCrudService.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\GenericCrudService.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\GenericCrudService.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\GenericCrudService.cs",
+              "RelativeToolTip": "BK_HoaDon\\GenericCrudService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:23:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeThongKhoContext.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\HeThongKhoContext.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\HeThongKhoContext.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\HeThongKhoContext.cs",
+              "RelativeToolTip": "BK_HoaDon\\HeThongKhoContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:20:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPhamService.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\SanPhamService.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\SanPhamService.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\SanPhamService.cs",
+              "RelativeToolTip": "BK_HoaDon\\SanPhamService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T18:14:41.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThietBi.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\ThietBi.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\ThietBi.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\ThietBi.cs",
+              "RelativeToolTip": "BK_HoaDon\\ThietBi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:20:13.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "BK_HoaDon\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAArwEIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:20:09.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamKho.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\SanPhamKho.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\SanPhamKho.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\SanPhamKho.cs",
+              "RelativeToolTip": "BK_HoaDon\\SanPhamKho.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwHgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:20:12.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViTri.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\ViTri.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\ViTri.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\ViTri.cs",
+              "RelativeToolTip": "BK_HoaDon\\ViTri.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:20:14.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\BK_HoaDon\\BK_HoaDon\\SanPham.cs",
+              "RelativeDocumentMoniker": "BK_HoaDon\\SanPham.cs",
+              "ToolTip": "D:\\BK_HoaDon\\BK_HoaDon\\SanPham.cs",
+              "RelativeToolTip": "BK_HoaDon\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:20:12.868Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
